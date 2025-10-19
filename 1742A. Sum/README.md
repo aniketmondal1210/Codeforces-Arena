@@ -13,6 +13,7 @@ Determine if **one of them is the sum of the other two**.
 **Constraints:**
 
 1 ≤ t ≤ 9261
+
 0 ≤ a, b, c ≤ 20
 
 
