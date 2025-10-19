@@ -42,24 +42,36 @@ If any of these conditions hold true, print `"YES"`. Otherwise, print `"NO"`.
 **Input:**
 
 7
+
 1 4 3
+
 2 5 8
+
 9 11 20
+
 0 0 0
+
 20 20 20
+
 4 12 3
+
 15 7 8
 
 **Output:**
 
 YES
+
 NO
-YES
-YES
-NO
-NO
+
 YES
 
+YES
+
+NO
+
+NO
+
+YES
 
 **Explanation:**
 - (1, 4, 3) → 1 + 3 = 4 → YES  
