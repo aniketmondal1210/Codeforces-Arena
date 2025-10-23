@@ -12,6 +12,7 @@ Given a two-digit positive integer `n`, find the **sum of its digits**.
 **Constraints:**
 
 1 ≤ t ≤ 90
+
 10 ≤ n ≤ 99
 
 
@@ -28,6 +29,7 @@ For each test case, print a single integer — the sum of the digits of `n`.
 **Input:**
 
 8
+
 77
 21
 40
