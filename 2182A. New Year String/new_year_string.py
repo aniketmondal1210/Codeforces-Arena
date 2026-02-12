@@ -1,4 +1,3 @@
-By aniketmondal1210, contest: Educational Codeforces Round 186 (Rated for Div. 2), problem: (A) New Year String, Accepted, #, Copy
 t = int(input())
  
 for i in range(t):
