@@ -18,9 +18,9 @@ For each test case, compute the **minimum number of operations** required to mak
 ## Input
 
 - First line: integer `t` — number of test cases  
-
-1 ≤ t ≤ 10⁴
-
+  ```
+  1 ≤ t ≤ 10⁴
+  ```
 - For each test case:
 - Integer `n` — length of string  
   ```
