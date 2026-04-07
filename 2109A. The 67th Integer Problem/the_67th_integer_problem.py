@@ -1,9 +1,11 @@
-By aniketmondal1210, contest: Codeforces Round 1090 (Div. 4), problem: (A) The 67th Integer Problem, Accepted, #, Copy
+# By aniketmondal1210, contest: Codeforces Round 1090 (Div. 4), problem: (A) The 67th Integer Problem, Accepted, #, Copy
 t = int(input())
 for _ in range(t):
     x = int(input())
     y = x + 1 if x < 67 else 67
     print(y)
+
+'''
 →Judgement Protocol
 Test: #1, time: 46 ms., memory: 0 KB, exit code: 0, checker exit code: 0, verdict: OK
 Input
@@ -378,3 +380,4 @@ Answer
 -4...
 Checker Log
 ok All 6767 test cases passed (valid outputs, all x >= a). (6767 test cases)
+'''
