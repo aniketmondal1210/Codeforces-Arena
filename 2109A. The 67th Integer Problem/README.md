@@ -21,7 +21,7 @@ If multiple valid `y` exist, return any.
 x = 1
 ```
 
-**Choose**
+**Output**
 ```
 y = 2
 ```
@@ -39,7 +39,7 @@ min(1,2) = 1  (maximum possible)
 x = 3
 ```
 
-**Choose**
+**Output**
 ```
 y = 4
 ```
@@ -57,7 +57,7 @@ min(3,4) = 3
 x = 5
 ```
 
-**Choose**
+**Output**
 ```
 y = 6
 ```
