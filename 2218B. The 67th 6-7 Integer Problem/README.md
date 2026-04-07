@@ -22,7 +22,7 @@ Your task is to find the **maximum possible sum** after performing this operatio
 ```
 41 41 41 41 41 41 41
 ```
-
+**Output**
 ```
 S = 287
 max = 41
@@ -37,7 +37,7 @@ Answer = 2*41 - 287 = -205
 ```
 6 9 4 20 6 7 67
 ```
-
+**Output**
 ```
 S = 119
 max = 67
@@ -52,7 +52,7 @@ Answer = 2*67 - 119 = 15
 ```
 1 2 3 4 5 6 7
 ```
-
+**Output**
 ```
 S = 28
 max = 7
