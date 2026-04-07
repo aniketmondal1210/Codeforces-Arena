@@ -14,47 +14,6 @@ Your task is to find the **maximum possible sum** after performing this operatio
 
 ---
 
-# Key Insight
-
-Let:
-
-```
-Total sum = S = a1 + a2 + ... + a7
-```
-
-If you negate 6 elements and keep one element `x` unchanged:
-
-```
-New Sum = x - (S - x)
-         = 2x - S
-```
-
----
-
-# Goal
-
-Maximize:
-
-```
-2x - S
-```
-
-Since `S` is constant, we just need to:
-
-```
-Choose the maximum element x
-```
-
----
-
-# Final Formula
-
-```
-Answer = 2 * (max element) - (sum of all elements)
-```
-
----
-
 # Examples
 
 ### Example 1
