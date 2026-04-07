@@ -1,10 +1,12 @@
-By aniketmondal1210, contest: Codeforces Round 1090 (Div. 4), problem: (B) The 67th 6-7 Integer Problem, Accepted, #, Copy
+# By aniketmondal1210, contest: Codeforces Round 1090 (Div. 4), problem: (B) The 67th 6-7 Integer Problem, Accepted, #, Copy
 t = int(input())
 for _ in range(t):
     a = list(map(int, input().split()))
     b = sum(a)
     maxi = max(a)
     print(2 * maxi - b)
+
+'''
 →Judgement Protocol
 Test: #1, time: 31 ms., memory: 0 KB, exit code: 0, checker exit code: 0, verdict: OK
 Input
@@ -653,3 +655,4 @@ Answer
 ...
 Checker Log
 ok 6767 numbers
+'''
